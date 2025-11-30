@@ -1,0 +1,32 @@
+Python
+Java
+C++
+JavaScript
+TypeScript
+HTML
+CSS
+React
+Node.js
+Express
+MongoDB
+MySQL
+PostgreSQL
+REST API
+Git
+GitHub
+Docker
+Kubernetes
+AWS
+Google Cloud
+Machine Learning
+Deep Learning
+Data Analysis
+SQL
+NoSQL
+TensorFlow
+PyTorch
+Pandas
+NumPy
+CI/CD
+Jenkins
+Linux

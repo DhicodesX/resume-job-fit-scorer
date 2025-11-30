@@ -1,0 +1,4 @@
+We are looking for a DevOps Intern with a solid foundation in cloud computing and automation.
+The candidate should be familiar with AWS services such as EC2, S3, and Lambda, and have experience with CI/CD pipelines.
+Knowledge of Python scripting, Docker, and Linux is an advantage.
+Good problem-solving skills and teamwork abilities are required.
