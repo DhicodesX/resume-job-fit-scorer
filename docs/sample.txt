@@ -1,0 +1,38 @@
+SAMPLE INPUT:
+
+RESUME:
+I am a B.Tech Computer Science student with 2 years of experience in Python, SQL, Data Analysis, and Machine Learning. 
+I have completed projects on predictive modeling and data visualization. 
+I am familiar with API integration and basic cloud concepts.
+
+JOB DESCRIPTION:
+We are looking for a Python Developer with strong skills in Python, SQL, Machine Learning, REST APIs, and cloud technologies. 
+The candidate should have at least 3 years of experience and a Bachelor's degree in Computer Science or related field.
+
+
+SAMPLE OUTPUT:
+
+Job Fit Score: 78%
+
+Matched Skills:
+- Python
+- SQL
+- Machine Learning
+
+Missing Skills:
+- REST APIs
+- Cloud Technologies
+
+Experience Match:
+- JD requires 3 years
+- Resume has 2 years → Partially Matched
+
+Education Match:
+- JD requires Bachelor's degree → Matched
+
+Keyword Match Score: 70%
+
+Recommendations:
+- Add details about REST API experience.
+- Mention hands-on experience with cloud platforms like AWS/Google Cloud.
+- Highlight any relevant certifications.

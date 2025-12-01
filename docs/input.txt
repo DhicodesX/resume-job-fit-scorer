@@ -1,0 +1,15 @@
+INPUTS REQUIRED FOR RESUME-TO-JOB FIT SCORER
+
+1. Resume Text:
+- Full plain-text version of the candidate's resume.
+- Should include: Name, Skills, Experience, Projects, Education, Summary, Certifications.
+- The text will be processed to extract skills, experience, education, keywords, and technologies.
+
+2. Job Description Text:
+- Full plain-text version of the job description.
+- Should include: Required skills, responsibilities, tools, experience level, role description.
+- The system will extract required skills, keywords, responsibilities, and qualification criteria.
+
+Input Format:
+- Both inputs should be provided as plain text (copy-paste).
+- No special formatting required.

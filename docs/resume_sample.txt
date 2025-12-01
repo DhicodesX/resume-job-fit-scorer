@@ -1,0 +1,4 @@
+I am a B.Tech CSE student with 2 years of experience in Python, SQL, Data Analysis,
+and Machine Learning. I have worked on REST API integration and basic cloud deployment on AWS.
+I have good communication and teamwork skills. I have done multiple academic projects
+related to data analysis and predictive modelling.

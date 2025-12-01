@@ -1,0 +1,28 @@
+EXPECTED OUTPUTS FROM RESUME-TO-JOB FIT SCORER
+
+1. Job Fit Score (0–100%):
+- Final score representing how well the resume matches the job description.
+
+2. Matched Skills:
+- List of skills present in both the resume and the job description.
+
+3. Missing Skills:
+- List of required skills not found in the candidate's resume.
+
+4. Experience Match:
+- Comparison of required experience vs actual experience.
+- Output: Fully Matched / Partially Matched / Not Matched.
+
+5. Education Match:
+- Comparison of required degree vs candidate's degree.
+- Output: Matched / Partially Matched / Not Matched.
+
+6. Keyword Match Score (0–100%):
+- Percentage of job-related keywords present in the resume.
+
+7. Recommendations:
+- Suggestions to improve resume relevance.
+- Examples:
+  - Add missing technical skills.
+  - Mention specific tools or technologies used.
+  - Highlight experience with APIs, databases, frameworks, etc.

@@ -1,0 +1,5 @@
+We are looking for a Python Developer with at least 3 years of experience.
+Required skills: Python, SQL, Machine Learning, REST API, AWS.
+The candidate should have a B.Tech or B.E in Computer Science or a related field.
+Good communication skills and ability to work in a team are essential.
+Experience with data analysis projects is a plus.
