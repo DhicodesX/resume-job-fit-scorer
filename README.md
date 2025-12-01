@@ -5,33 +5,34 @@ Built for speed, transparency, and accuracy — without requiring heavy machine 
 
 ## Features
 
--**Resume Text Extraction**: Supports plain text input from resumes
--**Job Description Matching**: Compare resume skills and experience with JD
--**AI-Like Scoring**: Generates a 0–100 Job Fit Score
--**Explainability**: Shows matched, missing, and extra skills
--**Experience Matching**: Automatically extracts years of experience
--**Education Detection**: Identifies degrees like B.Tech, BE, MCA, etc.
--**Keyword Scoring**: Identifies JD-specific keywords
--**CLI Tool**: Evaluate resume vs JD with one command
--**Customizable Dictionaries**: Technical skills, soft skills, JD keywords
+- **Resume Text Extraction**: Supports plain text input from resumes
+- **Job Description Matching**: Compare resume skills and experience with JD
+- **AI-Like Scoring**: Generates a 0–100 Job Fit Score
+- **Explainability**: Shows matched, missing, and extra skills
+- **Experience Matching**: Automatically extracts years of experience
+- **Education Detection**: Identifies degrees like B.Tech, BE, MCA, etc.
+- **Keyword Scoring**: Identifies JD-specific keywords
+- **CLI Tool**: Evaluate resume vs JD with one command
+- **Customizable Dictionaries**: Technical skills, soft skills, JD keywords
 
 ## Tech Stack
 
--**Core Language**: Python
--**NLP**: Custom preprocessing + rule-based extraction
--**Backend Structure**: Flask-compatible architecture
--**Database**: SQLite (resume_scorer.db)
--**OCR**: Tesseract (document_pytesseract.py)
--**File Handling**: Text-based resume/JD samples
--**CLI Tool**: run_evaluation.py
+- **Core Language**: Python
+- **NLP**: Custom preprocessing + rule-based extraction
+- **Backend Structure**: Flask-compatible architecture
+- **Database**: SQLite (resume_scorer.db)
+- **OCR**: Tesseract (document_pytesseract.py)
+- **File Handling**: Text-based resume/JD samples
+- **CLI Tool**: run_evaluation.py
 
 ## Prerequisites
 
--Python 3.8 or later
--Pip installed
--Tesseract OCR for image/PDF extraction
+- Python 3.8 or later
+- Pip installed
+- Tesseract OCR for image/PDF extraction
 
 ## Installation
+
 # Clone repository
 ```bash
 git clone https://github.com/DhicodesX/resume-job-fit-scorer
@@ -57,7 +58,7 @@ docs/resume_sample.txt
 docs/jd_sample.txt
 ```
 
-##Run the evaluator:
+## Run the evaluator:
 ```bash
 python backend/nlp/run_evaluation.py
 ```
@@ -73,7 +74,7 @@ Education match
 Keyword match
 ```
 
-##Project Structure
+## Project Structure
 
 ```
 resume-job-fit-scorer/
@@ -135,38 +136,39 @@ JOB FIT SCORE: 75.0%
 
 ## MVP Features ✔
 
--Upload/paste resume & JD text
--Extract skills, keywords, experience, education
--Generate transparent Job Fit Score
--Flexible skills database (editable .txt files)
--Fast, lightweight NLP — no ML model required
--Perfect for HR automation & student career guidance
+- Upload/paste resume & JD text
+- Extract skills, keywords, experience, education
+- Generate transparent Job Fit Score
+- Flexible skills database (editable .txt files)
+- Fast, lightweight NLP — no ML model required
+- Perfect for HR automation & student career guidance
 
 ## Development Timeline
 
--**Week 1 **→ Preprocessing + dictionaries
--**Week 2** → Feature extraction (skills, education, exp)
--**Week 3** → Scoring engine
--**Week 4** → Folder restructuring & CLI tool
--**Week 5** → OCR integration
--**Week 6** → Cleanup, testing, documentation
--**Week 7** → GitHub repo setup
--**Week 8** → Final report & submission
+- **Week 1 **→ Preprocessing + dictionaries
+- **Week 2** → Feature extraction (skills, education, exp)
+- **Week 3** → Scoring engine
+- **Week 4** → Folder restructuring & CLI tool
+- **Week 5** → OCR integration
+- **Week 6** → Cleanup, testing, documentation
+- **Week 7** → GitHub repo setup
+- **Week 8** → Final report & submission
 
 ## Future Enhancements
 
--Resume PDF → text extraction
--Full Flask backend
--React UI for interactive scoring
--ML models for skill inference
--JD classification (Data Analyst / Python Dev / etc.)
--Cloud deployment (Render/AWS)
+- Resume PDF → text extraction
+- Full Flask backend
+- React UI for interactive scoring
+- ML models for skill inference
+- JD classification (Data Analyst / Python Dev / etc.)
+- Cloud deployment (Render/AWS)
 
 ## Author
 
-Dhivya S V
-Intern — Digital Blinc
+**Dhivya S V**  
+Intern — Digital Blinc  
 Project: Resume-to-Job Fit Quick Scorer
+
 
 ## License
 
