@@ -134,7 +134,7 @@ JOB FIT SCORE: 75.0%
   Status      : Matched
 ```
 
-## MVP Features ✔
+## MVP Features
 
 - Upload/paste resume & JD text
 - Extract skills, keywords, experience, education
@@ -145,7 +145,7 @@ JOB FIT SCORE: 75.0%
 
 ## Development Timeline
 
-- **Week 1 **→ Preprocessing + dictionaries
+- **Week 1**→ Preprocessing + dictionaries
 - **Week 2** → Feature extraction (skills, education, exp)
 - **Week 3** → Scoring engine
 - **Week 4** → Folder restructuring & CLI tool
